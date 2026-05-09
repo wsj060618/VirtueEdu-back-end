@@ -1,0 +1,181 @@
+2026-05-03 01:21:04.702 [main] INFO  org.perswsj.TliasWebMangementApplication-Starting TliasWebMangementApplication using Java 21.0.7 with PID 54440 (D:\coding\JavaWeb\back_end\web-ai-project02\tlias-web-mangement\target\classes started by 32188 in D:\coding\JavaWeb\back_end\web-ai-project02)
+2026-05-03 01:21:04.705 [main] INFO  org.perswsj.TliasWebMangementApplication-No active profile set, falling back to 1 default profile: "default"
+2026-05-03 01:21:06.136 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer-Tomcat initialized with port 8080 (http)
+2026-05-03 01:21:06.151 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Initializing ProtocolHandler ["http-nio-8080"]
+2026-05-03 01:21:06.155 [main] INFO  org.apache.catalina.core.StandardService-Starting service [Tomcat]
+2026-05-03 01:21:06.155 [main] INFO  org.apache.catalina.core.StandardEngine-Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-05-03 01:21:06.243 [main] INFO  o.s.b.w.c.servlet.WebApplicationContextInitializer-Root WebApplicationContext: initialization completed in 1487 ms
+2026-05-03 01:21:07.051 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Starting ProtocolHandler ["http-nio-8080"]
+2026-05-03 01:21:07.077 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer-Tomcat started on port 8080 (http) with context path '/'
+2026-05-03 01:21:07.082 [main] INFO  org.perswsj.TliasWebMangementApplication-Started TliasWebMangementApplication in 2.903 seconds (process running for 4.23)
+2026-05-03 01:21:25.030 [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]-Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-05-03 01:21:25.030 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet-Initializing Servlet 'dispatcherServlet'
+2026-05-03 01:21:25.032 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet-Completed initialization in 2 ms
+2026-05-03 01:21:25.406 [http-nio-8080-exec-2] INFO  org.perswsj.controller.LoginController-登录: LoginInfo(id=null, username=songjiang, name=null, password=123456, token=null)
+2026-05-03 01:21:25.450 [http-nio-8080-exec-2] INFO  com.zaxxer.hikari.HikariDataSource-HikariPool-1 - Starting...
+2026-05-03 01:21:26.426 [http-nio-8080-exec-2] INFO  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@77cb964a
+2026-05-03 01:21:26.430 [http-nio-8080-exec-2] INFO  com.zaxxer.hikari.HikariDataSource-HikariPool-1 - Start completed.
+2026-05-03 01:21:37.946 [SpringApplicationShutdownHook] INFO  org.springframework.boot.tomcat.GracefulShutdown-Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-03 01:21:37.953 [tomcat-shutdown] INFO  org.springframework.boot.tomcat.GracefulShutdown-Graceful shutdown complete
+2026-05-03 01:21:37.958 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource-HikariPool-1 - Shutdown initiated...
+2026-05-03 01:21:37.966 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource-HikariPool-1 - Shutdown completed.
+2026-05-03 01:33:04.563 [main] INFO  org.perswsj.TliasWebMangementApplication-Starting TliasWebMangementApplication using Java 21.0.7 with PID 68432 (D:\coding\JavaWeb\back_end\web-ai-project02\tlias-web-mangement\target\classes started by 32188 in D:\coding\JavaWeb\back_end\web-ai-project02)
+2026-05-03 01:33:04.565 [main] INFO  org.perswsj.TliasWebMangementApplication-No active profile set, falling back to 1 default profile: "default"
+2026-05-03 01:33:06.188 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer-Tomcat initialized with port 8080 (http)
+2026-05-03 01:33:06.204 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Initializing ProtocolHandler ["http-nio-8080"]
+2026-05-03 01:33:06.207 [main] INFO  org.apache.catalina.core.StandardService-Starting service [Tomcat]
+2026-05-03 01:33:06.207 [main] INFO  org.apache.catalina.core.StandardEngine-Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-05-03 01:33:06.226 [main] INFO  org.perswsj.TliasWebMangementApplication-Starting TliasWebMangementApplication using Java 21.0.7 with PID 68544 (D:\coding\JavaWeb\back_end\web-ai-project02\tlias-web-mangement\target\classes started by 32188 in D:\coding\JavaWeb\back_end\web-ai-project02)
+2026-05-03 01:33:06.229 [main] INFO  org.perswsj.TliasWebMangementApplication-No active profile set, falling back to 1 default profile: "default"
+2026-05-03 01:33:06.306 [main] INFO  o.s.b.w.c.servlet.WebApplicationContextInitializer-Root WebApplicationContext: initialization completed in 1679 ms
+2026-05-03 01:33:07.219 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Starting ProtocolHandler ["http-nio-8080"]
+2026-05-03 01:33:07.244 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer-Tomcat started on port 8080 (http) with context path '/'
+2026-05-03 01:33:07.250 [main] INFO  org.perswsj.TliasWebMangementApplication-Started TliasWebMangementApplication in 3.27 seconds (process running for 4.266)
+2026-05-03 01:33:07.567 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer-Tomcat initialized with port 8080 (http)
+2026-05-03 01:33:07.582 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Initializing ProtocolHandler ["http-nio-8080"]
+2026-05-03 01:33:07.585 [main] INFO  org.apache.catalina.core.StandardService-Starting service [Tomcat]
+2026-05-03 01:33:07.586 [main] INFO  org.apache.catalina.core.StandardEngine-Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-05-03 01:33:07.670 [main] INFO  o.s.b.w.c.servlet.WebApplicationContextInitializer-Root WebApplicationContext: initialization completed in 1385 ms
+2026-05-03 01:33:08.473 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Starting ProtocolHandler ["http-nio-8080"]
+2026-05-03 01:33:08.482 [main] WARN  o.s.b.w.s.s.c.AnnotationConfigServletWebServerApplicationContext-Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2026-05-03 01:33:08.492 [main] INFO  o.s.b.a.logging.ConditionEvaluationReportLogger-
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2026-05-03 01:33:08.507 [main] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter-
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2026-05-03 01:33:29.047 [SpringApplicationShutdownHook] INFO  org.springframework.boot.tomcat.GracefulShutdown-Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-03 01:33:29.061 [tomcat-shutdown] INFO  org.springframework.boot.tomcat.GracefulShutdown-Graceful shutdown complete
+2026-05-03 01:33:33.926 [main] INFO  org.perswsj.TliasWebMangementApplication-Starting TliasWebMangementApplication using Java 21.0.7 with PID 49624 (D:\coding\JavaWeb\back_end\web-ai-project02\tlias-web-mangement\target\classes started by 32188 in D:\coding\JavaWeb\back_end\web-ai-project02)
+2026-05-03 01:33:33.928 [main] INFO  org.perswsj.TliasWebMangementApplication-No active profile set, falling back to 1 default profile: "default"
+2026-05-03 01:33:35.073 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer-Tomcat initialized with port 8080 (http)
+2026-05-03 01:33:35.085 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Initializing ProtocolHandler ["http-nio-8080"]
+2026-05-03 01:33:35.089 [main] INFO  org.apache.catalina.core.StandardService-Starting service [Tomcat]
+2026-05-03 01:33:35.089 [main] INFO  org.apache.catalina.core.StandardEngine-Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-05-03 01:33:35.165 [main] INFO  o.s.b.w.c.servlet.WebApplicationContextInitializer-Root WebApplicationContext: initialization completed in 1190 ms
+2026-05-03 01:33:35.871 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Starting ProtocolHandler ["http-nio-8080"]
+2026-05-03 01:33:35.892 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer-Tomcat started on port 8080 (http) with context path '/'
+2026-05-03 01:33:35.896 [main] INFO  org.perswsj.TliasWebMangementApplication-Started TliasWebMangementApplication in 2.371 seconds (process running for 3.015)
+2026-05-03 01:36:41.381 [SpringApplicationShutdownHook] INFO  org.springframework.boot.tomcat.GracefulShutdown-Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-03 01:36:41.390 [tomcat-shutdown] INFO  org.springframework.boot.tomcat.GracefulShutdown-Graceful shutdown complete
+2026-05-03 01:36:45.567 [main] INFO  org.perswsj.TliasWebMangementApplication-Starting TliasWebMangementApplication using Java 21.0.7 with PID 53244 (D:\coding\JavaWeb\back_end\web-ai-project02\tlias-web-mangement\target\classes started by 32188 in D:\coding\JavaWeb\back_end\web-ai-project02)
+2026-05-03 01:36:45.570 [main] INFO  org.perswsj.TliasWebMangementApplication-No active profile set, falling back to 1 default profile: "default"
+2026-05-03 01:36:46.765 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer-Tomcat initialized with port 8080 (http)
+2026-05-03 01:36:46.779 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Initializing ProtocolHandler ["http-nio-8080"]
+2026-05-03 01:36:46.781 [main] INFO  org.apache.catalina.core.StandardService-Starting service [Tomcat]
+2026-05-03 01:36:46.781 [main] INFO  org.apache.catalina.core.StandardEngine-Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-05-03 01:36:46.870 [main] INFO  o.s.b.w.c.servlet.WebApplicationContextInitializer-Root WebApplicationContext: initialization completed in 1256 ms
+2026-05-03 01:36:47.645 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Starting ProtocolHandler ["http-nio-8080"]
+2026-05-03 01:36:47.665 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer-Tomcat started on port 8080 (http) with context path '/'
+2026-05-03 01:36:47.670 [main] INFO  org.perswsj.TliasWebMangementApplication-Started TliasWebMangementApplication in 2.499 seconds (process running for 3.145)
+2026-05-03 01:36:58.389 [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]-Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-05-03 01:36:58.389 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet-Initializing Servlet 'dispatcherServlet'
+2026-05-03 01:36:58.391 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet-Completed initialization in 2 ms
+2026-05-03 01:36:59.633 [http-nio-8080-exec-1] INFO  org.perswsj.Interceptor.LoginInterCeptor-令牌非法，返回 401 状态码
+2026-05-03 01:36:59.633 [http-nio-8080-exec-2] INFO  org.perswsj.Interceptor.LoginInterCeptor-令牌非法，返回 401 状态码
+2026-05-03 01:37:18.964 [http-nio-8080-exec-3] INFO  org.perswsj.controller.LoginController-登录: LoginInfo(id=null, username=songjiang, name=null, password=123456, token=null)
+2026-05-03 01:37:19.009 [http-nio-8080-exec-3] INFO  com.zaxxer.hikari.HikariDataSource-HikariPool-1 - Starting...
+2026-05-03 01:37:19.619 [http-nio-8080-exec-3] INFO  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@242d7bb2
+2026-05-03 01:37:19.621 [http-nio-8080-exec-3] INFO  com.zaxxer.hikari.HikariDataSource-HikariPool-1 - Start completed.
+2026-05-03 01:37:22.186 [http-nio-8080-exec-4] INFO  org.perswsj.Interceptor.LoginInterCeptor-令牌合法，放行
+2026-05-03 01:37:22.186 [http-nio-8080-exec-5] INFO  org.perswsj.Interceptor.LoginInterCeptor-令牌合法，放行
+2026-05-03 01:37:22.189 [http-nio-8080-exec-5] INFO  org.perswsj.controller.EmpController-查询全部员工数据
+2026-05-03 01:37:22.203 [http-nio-8080-exec-4] INFO  org.perswsj.controller.ClazzController-查询班级分页数据: ClazzQueryParam(page=1, pageSize=10, name=, begin=null, end=null)
+2026-05-03 01:37:22.387 [http-nio-8080-exec-4] INFO  org.perswsj.service.impl.ClazzServiceImpl-查询班级分页数据，查询参数：ClazzQueryParam(page=1, pageSize=10, name=, begin=null, end=null)
+2026-05-03 01:37:25.034 [http-nio-8080-exec-6] INFO  org.perswsj.Interceptor.LoginInterCeptor-令牌合法，放行
+2026-05-03 01:37:25.036 [http-nio-8080-exec-6] INFO  org.perswsj.controller.DeptController-查询部门全部数据
+2026-05-03 01:37:31.325 [http-nio-8080-exec-7] INFO  org.perswsj.Interceptor.LoginInterCeptor-令牌合法，放行
+2026-05-03 01:37:31.327 [http-nio-8080-exec-7] INFO  org.perswsj.controller.DeptController-查询部门全部数据
+2026-05-03 01:37:37.959 [http-nio-8080-exec-8] INFO  org.perswsj.Interceptor.LoginInterCeptor-令牌合法，放行
+2026-05-03 01:37:37.978 [http-nio-8080-exec-8] INFO  org.perswsj.controller.DeptController-新增部门数据，部门信息=Dept(id=null, name=88888, createTime=null, updateTime=null)
+2026-05-03 01:37:38.013 [http-nio-8080-exec-8] DEBUG o.s.jdbc.support.JdbcTransactionManager-Creating new transaction with name [jdk.proxy2.$Proxy74.insert]: PROPAGATION_REQUIRES_NEW,ISOLATION_DEFAULT
+2026-05-03 01:37:38.013 [http-nio-8080-exec-8] DEBUG o.s.jdbc.support.JdbcTransactionManager-Acquired Connection [HikariProxyConnection@1673157877 wrapping com.mysql.cj.jdbc.ConnectionImpl@242d7bb2] for JDBC transaction
+2026-05-03 01:37:38.019 [http-nio-8080-exec-8] DEBUG o.s.jdbc.support.JdbcTransactionManager-Switching JDBC Connection [HikariProxyConnection@1673157877 wrapping com.mysql.cj.jdbc.ConnectionImpl@242d7bb2] to manual commit
+2026-05-03 01:37:38.032 [http-nio-8080-exec-8] DEBUG o.s.jdbc.support.JdbcTransactionManager-Initiating transaction commit
+2026-05-03 01:37:38.034 [http-nio-8080-exec-8] DEBUG o.s.jdbc.support.JdbcTransactionManager-Committing JDBC transaction on Connection [HikariProxyConnection@1673157877 wrapping com.mysql.cj.jdbc.ConnectionImpl@242d7bb2]
+2026-05-03 01:37:38.039 [http-nio-8080-exec-8] DEBUG o.s.jdbc.support.JdbcTransactionManager-Releasing JDBC Connection [HikariProxyConnection@1673157877 wrapping com.mysql.cj.jdbc.ConnectionImpl@242d7bb2] after transaction
+2026-05-03 01:37:38.039 [http-nio-8080-exec-8] INFO  org.perswsj.aop.RecordRunTimeAspect-操作日志已记录: OperateLog(id=null, operateEmpId=2, operateTime=2026-05-03T01:37:38.002560500, className=org.perswsj.controller.DeptController, methodName=add, methodParams=[Dept(id=null, name=88888, createTime=2026-05-03T01:37:37.979117800, updateTime=2026-05-03T01:37:37.979117800)], returnValue=Result(code=1, msg=success, data=null), costTime=25)
+2026-05-03 01:37:38.063 [http-nio-8080-exec-9] INFO  org.perswsj.Interceptor.LoginInterCeptor-令牌合法，放行
+2026-05-03 01:37:38.063 [http-nio-8080-exec-9] INFO  org.perswsj.controller.DeptController-查询部门全部数据
+2026-05-03 01:37:42.232 [http-nio-8080-exec-10] INFO  org.perswsj.Interceptor.LoginInterCeptor-令牌合法，放行
+2026-05-03 01:37:42.234 [http-nio-8080-exec-10] INFO  org.perswsj.controller.DeptController-根据部门ID查询部门数据，id=11
+2026-05-03 01:37:45.804 [http-nio-8080-exec-2] INFO  org.perswsj.Interceptor.LoginInterCeptor-令牌合法，放行
+2026-05-03 01:37:45.809 [http-nio-8080-exec-2] INFO  org.perswsj.controller.DeptController-根据部门ID修改部门数据，部门信息=Dept(id=11, name=888889, createTime=2026-05-03T01:37:38, updateTime=2026-05-03T01:37:38)
+2026-05-03 01:37:45.818 [http-nio-8080-exec-2] DEBUG o.s.jdbc.support.JdbcTransactionManager-Creating new transaction with name [jdk.proxy2.$Proxy74.insert]: PROPAGATION_REQUIRES_NEW,ISOLATION_DEFAULT
+2026-05-03 01:37:45.818 [http-nio-8080-exec-2] DEBUG o.s.jdbc.support.JdbcTransactionManager-Acquired Connection [HikariProxyConnection@2033383358 wrapping com.mysql.cj.jdbc.ConnectionImpl@242d7bb2] for JDBC transaction
+2026-05-03 01:37:45.818 [http-nio-8080-exec-2] DEBUG o.s.jdbc.support.JdbcTransactionManager-Switching JDBC Connection [HikariProxyConnection@2033383358 wrapping com.mysql.cj.jdbc.ConnectionImpl@242d7bb2] to manual commit
+2026-05-03 01:37:45.823 [http-nio-8080-exec-2] DEBUG o.s.jdbc.support.JdbcTransactionManager-Initiating transaction commit
+2026-05-03 01:37:45.823 [http-nio-8080-exec-2] DEBUG o.s.jdbc.support.JdbcTransactionManager-Committing JDBC transaction on Connection [HikariProxyConnection@2033383358 wrapping com.mysql.cj.jdbc.ConnectionImpl@242d7bb2]
+2026-05-03 01:37:45.826 [http-nio-8080-exec-2] DEBUG o.s.jdbc.support.JdbcTransactionManager-Releasing JDBC Connection [HikariProxyConnection@2033383358 wrapping com.mysql.cj.jdbc.ConnectionImpl@242d7bb2] after transaction
+2026-05-03 01:37:45.826 [http-nio-8080-exec-2] INFO  org.perswsj.aop.RecordRunTimeAspect-操作日志已记录: OperateLog(id=null, operateEmpId=2, operateTime=2026-05-03T01:37:45.818092900, className=org.perswsj.controller.DeptController, methodName=update, methodParams=[Dept(id=11, name=888889, createTime=2026-05-03T01:37:38, updateTime=2026-05-03T01:37:45.810325200)], returnValue=Result(code=1, msg=success, data=null), costTime=9)
+2026-05-03 01:37:45.840 [http-nio-8080-exec-1] INFO  org.perswsj.Interceptor.LoginInterCeptor-令牌合法，放行
+2026-05-03 01:37:45.840 [http-nio-8080-exec-1] INFO  org.perswsj.controller.DeptController-查询部门全部数据
+2026-05-03 01:37:48.428 [http-nio-8080-exec-3] INFO  org.perswsj.Interceptor.LoginInterCeptor-令牌合法，放行
+2026-05-03 01:37:48.429 [http-nio-8080-exec-3] INFO  org.perswsj.controller.DeptController-删除部门数据，id=11
+2026-05-03 01:37:48.437 [http-nio-8080-exec-3] DEBUG o.s.jdbc.support.JdbcTransactionManager-Creating new transaction with name [jdk.proxy2.$Proxy74.insert]: PROPAGATION_REQUIRES_NEW,ISOLATION_DEFAULT
+2026-05-03 01:37:48.439 [http-nio-8080-exec-3] DEBUG o.s.jdbc.support.JdbcTransactionManager-Acquired Connection [HikariProxyConnection@99347460 wrapping com.mysql.cj.jdbc.ConnectionImpl@242d7bb2] for JDBC transaction
+2026-05-03 01:37:48.439 [http-nio-8080-exec-3] DEBUG o.s.jdbc.support.JdbcTransactionManager-Switching JDBC Connection [HikariProxyConnection@99347460 wrapping com.mysql.cj.jdbc.ConnectionImpl@242d7bb2] to manual commit
+2026-05-03 01:37:48.443 [http-nio-8080-exec-3] DEBUG o.s.jdbc.support.JdbcTransactionManager-Initiating transaction commit
+2026-05-03 01:37:48.444 [http-nio-8080-exec-3] DEBUG o.s.jdbc.support.JdbcTransactionManager-Committing JDBC transaction on Connection [HikariProxyConnection@99347460 wrapping com.mysql.cj.jdbc.ConnectionImpl@242d7bb2]
+2026-05-03 01:37:48.446 [http-nio-8080-exec-3] DEBUG o.s.jdbc.support.JdbcTransactionManager-Releasing JDBC Connection [HikariProxyConnection@99347460 wrapping com.mysql.cj.jdbc.ConnectionImpl@242d7bb2] after transaction
+2026-05-03 01:37:48.447 [http-nio-8080-exec-3] INFO  org.perswsj.aop.RecordRunTimeAspect-操作日志已记录: OperateLog(id=null, operateEmpId=2, operateTime=2026-05-03T01:37:48.437960700, className=org.perswsj.controller.DeptController, methodName=delete, methodParams=[11], returnValue=Result(code=1, msg=success, data=null), costTime=8)
+2026-05-03 01:37:48.457 [http-nio-8080-exec-5] INFO  org.perswsj.Interceptor.LoginInterCeptor-令牌合法，放行
+2026-05-03 01:37:48.458 [http-nio-8080-exec-5] INFO  org.perswsj.controller.DeptController-查询部门全部数据
+2026-05-03 01:41:17.222 [http-nio-8080-exec-4] INFO  org.perswsj.controller.LoginController-登录: LoginInfo(id=null, username=xinzhe, name=null, password=123456, token=null)
+2026-05-03 01:41:24.974 [http-nio-8080-exec-6] INFO  org.perswsj.Interceptor.LoginInterCeptor-令牌合法，放行
+2026-05-03 01:41:24.974 [http-nio-8080-exec-7] INFO  org.perswsj.Interceptor.LoginInterCeptor-令牌合法，放行
+2026-05-03 01:41:24.974 [http-nio-8080-exec-7] INFO  org.perswsj.controller.DeptController-查询部门全部数据
+2026-05-03 01:41:24.977 [http-nio-8080-exec-6] INFO  org.perswsj.controller.EmpController-分页查询员工列表数据，参数：EmpQueryParam(page=1, pageSize=10, name=, gender=null, begin=null, end=null)
+2026-05-03 01:41:25.002 [http-nio-8080-exec-6] INFO  org.perswsj.service.impl.EmpServiceImpl-查询员工分页数据，分页参数：Page{count=true, pageNum=1, pageSize=10, startRow=0, endRow=10, total=30, pages=3, reasonable=false, pageSizeZero=false}[Emp(id=27, username=lijun, password=123456, name=李俊, gender=1, phone=13309090027, job=2, salary=6600, image=https://wsj2-java.oss-cn-beijing.aliyuncs.com/2026/04/3618bca6-11b4-41a7-b0fb-ef606b2eb1cb.JPG, entryDate=2004-01-01, deptId=1, createTime=2023-10-20T16:35:33, updateTime=2026-04-28T20:13:39, deptName=学工部, exprList=null), Emp(id=52, username=xiaowanxiong, password=123456, name=小浣熊, gender=1, phone=18899977728, job=3, salary=10000, image=https://wsj2-java.oss-cn-beijing.aliyuncs.com/2026/04/3c651568-9e82-4a3e-90ee-5558886b3773.jpg, entryDate=2026-04-16, deptId=3, createTime=2026-04-15T22:12:54, updateTime=2026-04-21T17:12:48, deptName=咨询部, exprList=null), Emp(id=6, username=yinglang, password=123456, name=银狼, gender=2, phone=18830277728, job=1, salary=10000, image=https://wsj2-java.oss-cn-beijing.aliyuncs.com/2026/04/65798ea9-fbb8-4ad3-b782-72bf230e207f.jpg, entryDate=2026-04-16, deptId=1, createTime=2026-04-15T22:20:54, updateTime=2026-04-21T17:11:58, deptName=学工部, exprList=null), Emp(id=10, username=xinzhe, password=123456, name=行者, gender=1, phone=18890277728, job=1, salary=6000, image=https://wsj2-java.oss-cn-beijing.aliyuncs.com/2026/04/f2aa784a-a8f6-40f5-b745-ecd4f64f05bb.jpg, entryDate=2024-04-16, deptId=1, createTime=2024-04-16T16:35:33, updateTime=2026-04-21T17:10:33, deptName=学工部, exprList=null), Emp(id=17, username=liying, password=12345678, name=李应, gender=1, phone=13309090017, job=1, salary=5800, image=https://web-framework.oss-cn-hangzhou.aliyuncs.com/2023/1.jpg, entryDate=2015-03-21, deptId=1, createTime=2023-10-20T16:35:33, updateTime=2026-04-21T01:10:10, deptName=学工部, exprList=null), Emp(id=28, username=lizhong, password=123456, name=李忠, gender=1, phone=13309090028, job=5, salary=5000, image=https://wsj-java-ai.oss-cn-shanghai.aliyuncs.com/2026/04/fdadcddf-2c3b-457b-a75e-b3a94250ca6e.jpg, entryDate=2007-01-01, deptId=3, createTime=2023-10-20T16:35:33, updateTime=2026-04-17T00:51:20, deptName=咨询部, exprList=null), Emp(id=1, username=shinaian, password=123456, name=施耐庵, gender=1, phone=13309090001, job=4, salary=15000, image=https://web-framework.oss-cn-hangzhou.aliyuncs.com/2023/1.jpg, entryDate=2000-01-01, deptId=2, createTime=2023-10-20T16:35:33, updateTime=2023-11-16T16:11:26, deptName=教研部, exprList=null), Emp(id=36, username=linghuchong, password=123456, name=令狐冲, gender=1, phone=18809091212, job=2, salary=6800, image=https://web-framework.oss-cn-hangzhou.aliyuncs.com/2023/1.jpg, entryDate=2023-10-19, deptId=2, createTime=2023-10-20T20:44:54, updateTime=2023-11-09T09:41:04, deptName=教研部, exprList=null), Emp(id=26, username=yanshun, password=123456, name=燕顺, gender=1, phone=13309090026, job=5, salary=5400, image=https://web-framework.oss-cn-hangzhou.aliyuncs.com/2023/1.jpg, entryDate=2011-01-01, deptId=3, createTime=2023-10-20T16:35:33, updateTime=2023-11-08T22:12:46, deptName=咨询部, exprList=null), Emp(id=25, username=tongmeng, password=123456, name=童猛, gender=1, phone=13309090025, job=5, salary=4800, image=https://web-framework.oss-cn-hangzhou.aliyuncs.com/2023/1.jpg, entryDate=2002-01-01, deptId=3, createTime=2023-10-20T16:35:33, updateTime=2023-10-20T16:36:23, deptName=咨询部, exprList=null)]，查询参数：{}
+2026-05-03 01:42:11.026 [http-nio-8080-exec-8] INFO  org.perswsj.Interceptor.LoginInterCeptor-令牌合法，放行
+2026-05-03 01:42:11.037 [http-nio-8080-exec-8] INFO  org.perswsj.controller.EmpController-新增员工数据，参数：Emp(id=null, username=asdfaf, password=null, name=safda, gender=1, phone=18890377721, job=null, salary=null, image=, entryDate=null, deptId=null, createTime=null, updateTime=null, deptName=null, exprList=[])
+2026-05-03 01:42:11.038 [http-nio-8080-exec-8] DEBUG o.s.jdbc.support.JdbcTransactionManager-Creating new transaction with name [org.perswsj.service.impl.EmpServiceImpl.save]: PROPAGATION_REQUIRED,ISOLATION_DEFAULT,-java.lang.Exception
+2026-05-03 01:42:11.039 [http-nio-8080-exec-8] DEBUG o.s.jdbc.support.JdbcTransactionManager-Acquired Connection [HikariProxyConnection@358807132 wrapping com.mysql.cj.jdbc.ConnectionImpl@242d7bb2] for JDBC transaction
+2026-05-03 01:42:11.041 [http-nio-8080-exec-8] DEBUG o.s.jdbc.support.JdbcTransactionManager-Switching JDBC Connection [HikariProxyConnection@358807132 wrapping com.mysql.cj.jdbc.ConnectionImpl@242d7bb2] to manual commit
+2026-05-03 01:42:11.053 [http-nio-8080-exec-8] DEBUG o.s.jdbc.support.JdbcTransactionManager-Suspending current transaction, creating new transaction with name [jdk.proxy2.$Proxy90.insert]
+2026-05-03 01:42:11.055 [http-nio-8080-exec-8] DEBUG o.s.jdbc.support.JdbcTransactionManager-Acquired Connection [HikariProxyConnection@504193627 wrapping com.mysql.cj.jdbc.ConnectionImpl@603b7c49] for JDBC transaction
+2026-05-03 01:42:11.056 [http-nio-8080-exec-8] DEBUG o.s.jdbc.support.JdbcTransactionManager-Switching JDBC Connection [HikariProxyConnection@504193627 wrapping com.mysql.cj.jdbc.ConnectionImpl@603b7c49] to manual commit
+2026-05-03 01:42:11.065 [http-nio-8080-exec-8] DEBUG o.s.jdbc.support.JdbcTransactionManager-Initiating transaction commit
+2026-05-03 01:42:11.065 [http-nio-8080-exec-8] DEBUG o.s.jdbc.support.JdbcTransactionManager-Committing JDBC transaction on Connection [HikariProxyConnection@504193627 wrapping com.mysql.cj.jdbc.ConnectionImpl@603b7c49]
+2026-05-03 01:42:11.068 [http-nio-8080-exec-8] DEBUG o.s.jdbc.support.JdbcTransactionManager-Releasing JDBC Connection [HikariProxyConnection@504193627 wrapping com.mysql.cj.jdbc.ConnectionImpl@603b7c49] after transaction
+2026-05-03 01:42:11.068 [http-nio-8080-exec-8] DEBUG o.s.jdbc.support.JdbcTransactionManager-Resuming suspended transaction after completion of inner transaction
+2026-05-03 01:42:11.069 [http-nio-8080-exec-8] DEBUG o.s.jdbc.support.JdbcTransactionManager-Initiating transaction commit
+2026-05-03 01:42:11.069 [http-nio-8080-exec-8] DEBUG o.s.jdbc.support.JdbcTransactionManager-Committing JDBC transaction on Connection [HikariProxyConnection@358807132 wrapping com.mysql.cj.jdbc.ConnectionImpl@242d7bb2]
+2026-05-03 01:42:11.072 [http-nio-8080-exec-8] DEBUG o.s.jdbc.support.JdbcTransactionManager-Releasing JDBC Connection [HikariProxyConnection@358807132 wrapping com.mysql.cj.jdbc.ConnectionImpl@242d7bb2] after transaction
+2026-05-03 01:42:11.072 [http-nio-8080-exec-8] DEBUG o.s.jdbc.support.JdbcTransactionManager-Creating new transaction with name [jdk.proxy2.$Proxy74.insert]: PROPAGATION_REQUIRES_NEW,ISOLATION_DEFAULT
+2026-05-03 01:42:11.072 [http-nio-8080-exec-8] DEBUG o.s.jdbc.support.JdbcTransactionManager-Acquired Connection [HikariProxyConnection@1834700150 wrapping com.mysql.cj.jdbc.ConnectionImpl@242d7bb2] for JDBC transaction
+2026-05-03 01:42:11.072 [http-nio-8080-exec-8] DEBUG o.s.jdbc.support.JdbcTransactionManager-Switching JDBC Connection [HikariProxyConnection@1834700150 wrapping com.mysql.cj.jdbc.ConnectionImpl@242d7bb2] to manual commit
+2026-05-03 01:42:11.076 [http-nio-8080-exec-8] DEBUG o.s.jdbc.support.JdbcTransactionManager-Initiating transaction commit
+2026-05-03 01:42:11.076 [http-nio-8080-exec-8] DEBUG o.s.jdbc.support.JdbcTransactionManager-Committing JDBC transaction on Connection [HikariProxyConnection@1834700150 wrapping com.mysql.cj.jdbc.ConnectionImpl@242d7bb2]
+2026-05-03 01:42:11.079 [http-nio-8080-exec-8] DEBUG o.s.jdbc.support.JdbcTransactionManager-Releasing JDBC Connection [HikariProxyConnection@1834700150 wrapping com.mysql.cj.jdbc.ConnectionImpl@242d7bb2] after transaction
+2026-05-03 01:42:11.079 [http-nio-8080-exec-8] INFO  org.perswsj.aop.RecordRunTimeAspect-操作日志已记录: OperateLog(id=null, operateEmpId=10, operateTime=2026-05-03T01:42:11.072378200, className=org.perswsj.controller.EmpController, methodName=save, methodParams=[Emp(id=53, username=asdfaf, password=null, name=safda, gender=1, phone=18890377721, job=null, salary=null, image=, entryDate=null, deptId=null, createTime=2026-05-03T01:42:11.042416400, updateTime=2026-05-03T01:42:11.042416400, deptName=null, exprList=[])], returnValue=Result(code=1, msg=success, data=null), costTime=35)
+2026-05-03 01:42:11.090 [http-nio-8080-exec-9] INFO  org.perswsj.Interceptor.LoginInterCeptor-令牌合法，放行
+2026-05-03 01:42:11.093 [http-nio-8080-exec-9] INFO  org.perswsj.controller.EmpController-分页查询员工列表数据，参数：EmpQueryParam(page=1, pageSize=10, name=, gender=null, begin=null, end=null)
+2026-05-03 01:42:11.105 [http-nio-8080-exec-9] INFO  org.perswsj.service.impl.EmpServiceImpl-查询员工分页数据，分页参数：Page{count=true, pageNum=1, pageSize=10, startRow=0, endRow=10, total=31, pages=4, reasonable=false, pageSizeZero=false}[Emp(id=53, username=asdfaf, password=123456, name=safda, gender=1, phone=18890377721, job=null, salary=null, image=, entryDate=null, deptId=null, createTime=2026-05-03T01:42:11, updateTime=2026-05-03T01:42:11, deptName=null, exprList=null), Emp(id=27, username=lijun, password=123456, name=李俊, gender=1, phone=13309090027, job=2, salary=6600, image=https://wsj2-java.oss-cn-beijing.aliyuncs.com/2026/04/3618bca6-11b4-41a7-b0fb-ef606b2eb1cb.JPG, entryDate=2004-01-01, deptId=1, createTime=2023-10-20T16:35:33, updateTime=2026-04-28T20:13:39, deptName=学工部, exprList=null), Emp(id=52, username=xiaowanxiong, password=123456, name=小浣熊, gender=1, phone=18899977728, job=3, salary=10000, image=https://wsj2-java.oss-cn-beijing.aliyuncs.com/2026/04/3c651568-9e82-4a3e-90ee-5558886b3773.jpg, entryDate=2026-04-16, deptId=3, createTime=2026-04-15T22:12:54, updateTime=2026-04-21T17:12:48, deptName=咨询部, exprList=null), Emp(id=6, username=yinglang, password=123456, name=银狼, gender=2, phone=18830277728, job=1, salary=10000, image=https://wsj2-java.oss-cn-beijing.aliyuncs.com/2026/04/65798ea9-fbb8-4ad3-b782-72bf230e207f.jpg, entryDate=2026-04-16, deptId=1, createTime=2026-04-15T22:20:54, updateTime=2026-04-21T17:11:58, deptName=学工部, exprList=null), Emp(id=10, username=xinzhe, password=123456, name=行者, gender=1, phone=18890277728, job=1, salary=6000, image=https://wsj2-java.oss-cn-beijing.aliyuncs.com/2026/04/f2aa784a-a8f6-40f5-b745-ecd4f64f05bb.jpg, entryDate=2024-04-16, deptId=1, createTime=2024-04-16T16:35:33, updateTime=2026-04-21T17:10:33, deptName=学工部, exprList=null), Emp(id=17, username=liying, password=12345678, name=李应, gender=1, phone=13309090017, job=1, salary=5800, image=https://web-framework.oss-cn-hangzhou.aliyuncs.com/2023/1.jpg, entryDate=2015-03-21, deptId=1, createTime=2023-10-20T16:35:33, updateTime=2026-04-21T01:10:10, deptName=学工部, exprList=null), Emp(id=28, username=lizhong, password=123456, name=李忠, gender=1, phone=13309090028, job=5, salary=5000, image=https://wsj-java-ai.oss-cn-shanghai.aliyuncs.com/2026/04/fdadcddf-2c3b-457b-a75e-b3a94250ca6e.jpg, entryDate=2007-01-01, deptId=3, createTime=2023-10-20T16:35:33, updateTime=2026-04-17T00:51:20, deptName=咨询部, exprList=null), Emp(id=1, username=shinaian, password=123456, name=施耐庵, gender=1, phone=13309090001, job=4, salary=15000, image=https://web-framework.oss-cn-hangzhou.aliyuncs.com/2023/1.jpg, entryDate=2000-01-01, deptId=2, createTime=2023-10-20T16:35:33, updateTime=2023-11-16T16:11:26, deptName=教研部, exprList=null), Emp(id=36, username=linghuchong, password=123456, name=令狐冲, gender=1, phone=18809091212, job=2, salary=6800, image=https://web-framework.oss-cn-hangzhou.aliyuncs.com/2023/1.jpg, entryDate=2023-10-19, deptId=2, createTime=2023-10-20T20:44:54, updateTime=2023-11-09T09:41:04, deptName=教研部, exprList=null), Emp(id=26, username=yanshun, password=123456, name=燕顺, gender=1, phone=13309090026, job=5, salary=5400, image=https://web-framework.oss-cn-hangzhou.aliyuncs.com/2023/1.jpg, entryDate=2011-01-01, deptId=3, createTime=2023-10-20T16:35:33, updateTime=2023-11-08T22:12:46, deptName=咨询部, exprList=null)]，查询参数：{}
+2026-05-03 01:42:51.645 [SpringApplicationShutdownHook] INFO  org.springframework.boot.tomcat.GracefulShutdown-Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-03 01:42:51.650 [tomcat-shutdown] INFO  org.springframework.boot.tomcat.GracefulShutdown-Graceful shutdown complete
+2026-05-03 01:42:51.654 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource-HikariPool-1 - Shutdown initiated...
+2026-05-03 01:42:51.667 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource-HikariPool-1 - Shutdown completed.
+2026-05-03 01:42:55.280 [main] INFO  org.perswsj.TliasWebMangementApplication-Starting TliasWebMangementApplication using Java 21.0.7 with PID 69500 (D:\coding\JavaWeb\back_end\web-ai-project02\tlias-web-mangement\target\classes started by 32188 in D:\coding\JavaWeb\back_end\web-ai-project02)
+2026-05-03 01:42:55.282 [main] INFO  org.perswsj.TliasWebMangementApplication-No active profile set, falling back to 1 default profile: "default"
+2026-05-03 01:42:56.441 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer-Tomcat initialized with port 8080 (http)
+2026-05-03 01:42:56.454 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Initializing ProtocolHandler ["http-nio-8080"]
+2026-05-03 01:42:56.457 [main] INFO  org.apache.catalina.core.StandardService-Starting service [Tomcat]
+2026-05-03 01:42:56.457 [main] INFO  org.apache.catalina.core.StandardEngine-Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-05-03 01:42:56.534 [main] INFO  o.s.b.w.c.servlet.WebApplicationContextInitializer-Root WebApplicationContext: initialization completed in 1211 ms
+2026-05-03 01:42:57.268 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Starting ProtocolHandler ["http-nio-8080"]
+2026-05-03 01:42:57.286 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer-Tomcat started on port 8080 (http) with context path '/'
+2026-05-03 01:42:57.291 [main] INFO  org.perswsj.TliasWebMangementApplication-Started TliasWebMangementApplication in 2.421 seconds (process running for 3.033)
+2026-05-03 01:42:58.331 [SpringApplicationShutdownHook] INFO  org.springframework.boot.tomcat.GracefulShutdown-Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-03 01:42:58.337 [tomcat-shutdown] INFO  org.springframework.boot.tomcat.GracefulShutdown-Graceful shutdown complete

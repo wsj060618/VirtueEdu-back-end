@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.perswsj.mapper.studentMapper">
+    <insert id="insert" parameterType="org.perswsj.model.Student">
+        INSERT INTO student (name, no, gender, phone, id_card, is_college, address, degree, graduation_date, clazz_id, create_time, update_time)
+        VALUES (#{name}, #{no}, #{gender}, #{phone}, #{idCard}, #{isCollege}, #{address}, #{degree}, #{graduationDate}, #{clazzId}, #{createTime}, #{updateTime})
+    </insert>
+    <update id="update" parameterType="org.perswsj.model.Student">
+        UPDATE student
+        SET
+            name = #{name},
+            no = #{no},
+            gender = #{gender},
+            phone = #{phone},
+            degree = #{degree},
+            id_card = #{idCard},
+            is_college = #{isCollege},
+            address = #{address},
+            graduation_date = #{graduationDate},
+            violation_count = #{violationCount},
+            violation_score = #{violationScore},
+            clazz_id = #{clazzId},
+            update_time = #{updateTime}
+        WHERE id = #{id}
+    </update>
+    <update id="updateViolation">
+        UPDATE student
+        SET
+            violation_count = violation_count + 1,
+            violation_score = violation_score + #{score}
+        WHERE id = #{id}
+    </update>
+    <delete id="delete">
+        DELETE FROM student WHERE id IN
+        <foreach collection="list" item="id" open="(" separator="," close=")">
+            #{id}
+        </foreach>
+    </delete>
+    <select id="selectCountByClazzId" resultType="java.lang.Integer">
+        SELECT count(*) AS count FROM student WHERE clazz_id = #{clazzId}
+    </select>
+    <select id="list" resultType="org.perswsj.model.Student">
+        SELECT
+            s.*, c.name clazz_name
+        FROM student s
+        LEFT JOIN clazz c ON s.clazz_id = c.id
+        <where>
+            <if test="name != null and name != ''">
+                AND s.name LIKE CONCAT('%',#{name},'%')
+            </if>
+            <if test="degree != null and degree != ''">
+                AND s.degree = #{degree}
+            </if>
+            <if test="clazzId != null and clazzId != ''">
+                AND s.clazz_id = #{clazzId}
+            </if>
+        </where>
+        ORDER BY s.update_time DESC
+    </select>
+    <select id="getStudentById" resultType="org.perswsj.dto.StudentDto">
+        SELECT
+            id, name, no, gender, phone, degree, id_card, is_college, address, graduation_date, violation_count, violation_score, clazz_id, create_time, update_time
+        FROM student WHERE id = #{id}
+    </select>
+
+</mapper>

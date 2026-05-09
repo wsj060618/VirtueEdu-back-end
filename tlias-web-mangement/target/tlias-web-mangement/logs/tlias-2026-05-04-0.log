@@ -1,0 +1,48 @@
+2026-05-04 01:42:42.980 [main] INFO  org.perswsj.TliasWebMangementApplication-Starting TliasWebMangementApplication v0.0.1-SNAPSHOT using Java 21.0.7 with PID 12816 (D:\coding\JavaWeb\back_end\web-ai-project02\tlias-web-mangement\target\tlias-web-mangement-0.0.1-SNAPSHOT.jar started by 32188 in D:\coding\JavaWeb\back_end\web-ai-project02\tlias-web-mangement\target)
+2026-05-04 01:42:42.983 [main] INFO  org.perswsj.TliasWebMangementApplication-No active profile set, falling back to 1 default profile: "default"
+2026-05-04 01:42:44.126 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer-Tomcat initialized with port 9000 (http)
+2026-05-04 01:42:44.142 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Initializing ProtocolHandler ["http-nio-9000"]
+2026-05-04 01:42:44.144 [main] INFO  org.apache.catalina.core.StandardService-Starting service [Tomcat]
+2026-05-04 01:42:44.145 [main] INFO  org.apache.catalina.core.StandardEngine-Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-05-04 01:42:44.172 [main] INFO  o.s.b.w.c.servlet.WebApplicationContextInitializer-Root WebApplicationContext: initialization completed in 1146 ms
+2026-05-04 01:42:45.170 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Starting ProtocolHandler ["http-nio-9000"]
+2026-05-04 01:42:45.208 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer-Tomcat started on port 9000 (http) with context path '/'
+2026-05-04 01:42:45.232 [main] INFO  org.perswsj.TliasWebMangementApplication-Started TliasWebMangementApplication in 2.62 seconds (process running for 3.318)
+2026-05-04 01:43:27.403 [SpringApplicationShutdownHook] INFO  org.springframework.boot.tomcat.GracefulShutdown-Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-04 01:43:27.416 [tomcat-shutdown] INFO  org.springframework.boot.tomcat.GracefulShutdown-Graceful shutdown complete
+2026-05-04 01:44:37.454 [main] INFO  org.perswsj.TliasWebMangementApplication-Starting TliasWebMangementApplication v0.0.1-SNAPSHOT using Java 21.0.7 with PID 8280 (D:\coding\JavaWeb\back_end\web-ai-project02\tlias-web-mangement\target\tlias-web-mangement-0.0.1-SNAPSHOT.jar started by 32188 in D:\coding\JavaWeb\back_end\web-ai-project02\tlias-web-mangement\target)
+2026-05-04 01:44:37.456 [main] INFO  org.perswsj.TliasWebMangementApplication-No active profile set, falling back to 1 default profile: "default"
+2026-05-04 01:44:38.479 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer-Tomcat initialized with port 9000 (http)
+2026-05-04 01:44:38.491 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Initializing ProtocolHandler ["http-nio-9000"]
+2026-05-04 01:44:38.494 [main] INFO  org.apache.catalina.core.StandardService-Starting service [Tomcat]
+2026-05-04 01:44:38.494 [main] INFO  org.apache.catalina.core.StandardEngine-Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-05-04 01:44:38.530 [main] INFO  o.s.b.w.c.servlet.WebApplicationContextInitializer-Root WebApplicationContext: initialization completed in 1034 ms
+2026-05-04 01:44:39.472 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Starting ProtocolHandler ["http-nio-9000"]
+2026-05-04 01:44:39.506 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer-Tomcat started on port 9000 (http) with context path '/'
+2026-05-04 01:44:39.522 [main] INFO  org.perswsj.TliasWebMangementApplication-Started TliasWebMangementApplication in 2.415 seconds (process running for 3.038)
+2026-05-04 01:45:01.965 [SpringApplicationShutdownHook] INFO  org.springframework.boot.tomcat.GracefulShutdown-Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-04 01:45:01.976 [tomcat-shutdown] INFO  org.springframework.boot.tomcat.GracefulShutdown-Graceful shutdown complete
+2026-05-04 01:45:26.736 [main] INFO  org.perswsj.TliasWebMangementApplication-Starting TliasWebMangementApplication v0.0.1-SNAPSHOT using Java 21.0.7 with PID 19036 (D:\coding\JavaWeb\back_end\web-ai-project02\tlias-web-mangement\target\tlias-web-mangement-0.0.1-SNAPSHOT.jar started by 32188 in D:\coding\JavaWeb\back_end\web-ai-project02\tlias-web-mangement\target)
+2026-05-04 01:45:26.740 [main] INFO  org.perswsj.TliasWebMangementApplication-No active profile set, falling back to 1 default profile: "default"
+2026-05-04 01:45:27.781 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer-Tomcat initialized with port 8080 (http)
+2026-05-04 01:45:27.791 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Initializing ProtocolHandler ["http-nio-8080"]
+2026-05-04 01:45:27.793 [main] INFO  org.apache.catalina.core.StandardService-Starting service [Tomcat]
+2026-05-04 01:45:27.794 [main] INFO  org.apache.catalina.core.StandardEngine-Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-05-04 01:45:27.821 [main] INFO  o.s.b.w.c.servlet.WebApplicationContextInitializer-Root WebApplicationContext: initialization completed in 1036 ms
+2026-05-04 01:45:28.658 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Starting ProtocolHandler ["http-nio-8080"]
+2026-05-04 01:45:28.686 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer-Tomcat started on port 8080 (http) with context path '/'
+2026-05-04 01:45:28.702 [main] INFO  org.perswsj.TliasWebMangementApplication-Started TliasWebMangementApplication in 2.291 seconds (process running for 2.91)
+2026-05-04 01:45:45.503 [SpringApplicationShutdownHook] INFO  org.springframework.boot.tomcat.GracefulShutdown-Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-04 01:45:45.511 [tomcat-shutdown] INFO  org.springframework.boot.tomcat.GracefulShutdown-Graceful shutdown complete
+2026-05-04 01:45:51.337 [main] INFO  org.perswsj.TliasWebMangementApplication-Starting TliasWebMangementApplication v0.0.1-SNAPSHOT using Java 21.0.7 with PID 25108 (D:\coding\JavaWeb\back_end\web-ai-project02\tlias-web-mangement\target\tlias-web-mangement-0.0.1-SNAPSHOT.jar started by 32188 in D:\coding\JavaWeb\back_end\web-ai-project02\tlias-web-mangement\target)
+2026-05-04 01:45:51.340 [main] INFO  org.perswsj.TliasWebMangementApplication-No active profile set, falling back to 1 default profile: "default"
+2026-05-04 01:45:52.337 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer-Tomcat initialized with port 9001 (http)
+2026-05-04 01:45:52.345 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Initializing ProtocolHandler ["http-nio-9001"]
+2026-05-04 01:45:52.347 [main] INFO  org.apache.catalina.core.StandardService-Starting service [Tomcat]
+2026-05-04 01:45:52.347 [main] INFO  org.apache.catalina.core.StandardEngine-Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-05-04 01:45:52.369 [main] INFO  o.s.b.w.c.servlet.WebApplicationContextInitializer-Root WebApplicationContext: initialization completed in 983 ms
+2026-05-04 01:45:53.260 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Starting ProtocolHandler ["http-nio-9001"]
+2026-05-04 01:45:53.287 [main] INFO  org.springframework.boot.tomcat.TomcatWebServer-Tomcat started on port 9001 (http) with context path '/'
+2026-05-04 01:45:53.300 [main] INFO  org.perswsj.TliasWebMangementApplication-Started TliasWebMangementApplication in 2.292 seconds (process running for 2.931)
+2026-05-04 01:46:54.942 [SpringApplicationShutdownHook] INFO  org.springframework.boot.tomcat.GracefulShutdown-Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-04 01:46:54.953 [tomcat-shutdown] INFO  org.springframework.boot.tomcat.GracefulShutdown-Graceful shutdown complete
