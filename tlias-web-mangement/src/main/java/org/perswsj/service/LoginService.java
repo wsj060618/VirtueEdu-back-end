@@ -2,9 +2,7 @@ package org.perswsj.service;
 
 import org.perswsj.dto.LoginDto;
 import org.perswsj.model.LoginInfo;
-import org.springframework.stereotype.Service;
 
-@Service
 public interface LoginService {
     /**
      * 登录

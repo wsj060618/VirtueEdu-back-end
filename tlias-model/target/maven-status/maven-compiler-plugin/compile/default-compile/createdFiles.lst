@@ -1,0 +1,16 @@
+org\perswsj\model\JobOption.class
+org\perswsj\model\LoginInfo.class
+org\perswsj\model\StudentQueryParam.class
+org\perswsj\model\Clazz.class
+org\perswsj\model\ClazzCountOption.class
+org\perswsj\model\EmpLog.class
+org\perswsj\model\Dept.class
+org\perswsj\model\OperateLog.class
+org\perswsj\model\Result.class
+org\perswsj\model\ClazzQueryParam.class
+org\perswsj\model\EmpExpr.class
+org\perswsj\model\PageResult.class
+org\perswsj\model\Student.class
+org\perswsj\model\Emp.class
+org\perswsj\model\EmpQueryParam.class
+org\perswsj\model\DegreeCountOption.class
