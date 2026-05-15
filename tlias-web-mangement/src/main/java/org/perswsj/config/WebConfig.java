@@ -8,14 +8,14 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 @Configuration
 public class WebConfig implements WebMvcConfigurer {
-    @Autowired
-    private LoginInterCeptor loginInterCeptor;
-
-    @Override
-    public void addInterceptors(InterceptorRegistry registry) {
-        // 注册登录拦截器
-        registry.addInterceptor(loginInterCeptor)
-                .addPathPatterns("/**") // 拦截所有路径
-                .excludePathPatterns("/login/**"); // 排除登录接口
-    }
+//    @Autowired
+//    private LoginInterCeptor loginInterCeptor;
+//
+//    @Override
+//    public void addInterceptors(InterceptorRegistry registry) {
+//        // 注册登录拦截器
+//        registry.addInterceptor(loginInterCeptor)
+//                .addPathPatterns("/**") // 拦截所有路径
+//                .excludePathPatterns("/login/**"); // 排除登录接口
+//    }
 }
