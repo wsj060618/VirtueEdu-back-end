@@ -179,7 +179,6 @@ mvn spring-boot:run
 服务启动后默认监听 `http://localhost:8080`
 
 ## API 接口示例
-见 `./document/VirtueEdu web management.openapi.json`
 
 ### 登录接口
 
@@ -192,6 +191,8 @@ Content-Type: application/json
     "password": "123456"
 }
 ```
+
+完整接口文档见 `./document/VirtueEdu web management.openapi.json`
 
 ### 获取学生列表
 
