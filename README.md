@@ -192,14 +192,14 @@ Content-Type: application/json
 }
 ```
 
-完整接口文档见 `./document/VirtueEdu web management.openapi.json`
-
 ### 获取学生列表
 
 ```http
 GET /api/students?page=1&size=10
 Authorization: Bearer <token>
 ```
+
+完整接口文档见 `./document/VirtueEdu web management.openapi.json`
 
 ## 配置说明
 
