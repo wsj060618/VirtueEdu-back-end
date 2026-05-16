@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3c1d2de-f703-4984-beac-636c210506a2" name="Changes" comment="更正日志路径,修复拼写错误">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="b3c1d2de-f703-4984-beac-636c210506a2" name="Changes" comment="修正一些错误">
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document/VirtueEdu web management.openapi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document/virtue_edu_db_2026-05-16_124031.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ApifoxUploaderProjectSetting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ApifoxUploaderProjectSetting.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +93,7 @@
     "Spring Boot.VirtueEduWebMangementApplication.executor": "Debug",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/coding/JavaWeb/back_end/VirtueEdu-parent/document",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -99,6 +105,12 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\coding\JavaWeb\back_end\VirtueEdu-parent\document" />
+      <recent name="D:\coding\JavaWeb\back_end\VirtueEdu-parent\api doucument" />
+    </key>
+  </component>
   <component name="RunManager" selected="Spring Boot.VirtueEduWebManagementApplication">
     <configuration name="DbTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="VirtueEdu-web-management" />
@@ -189,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778904109523</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="修正一些错误">
+      <option name="closed" value="true" />
+      <created>1778904467812</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1778904467812</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,7 +225,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="更正日志路径,修复拼写错误" />
-    <option name="LAST_COMMIT_MESSAGE" value="更正日志路径,修复拼写错误" />
+    <MESSAGE value="修正一些错误" />
+    <option name="LAST_COMMIT_MESSAGE" value="修正一些错误" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
