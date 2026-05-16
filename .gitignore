@@ -5,9 +5,15 @@ target/
 *.original
 
 # 日志文件
-VirtueEdu-web-mangement/logs/
+logs/
 *.log
 
 # 系统垃圾文件
 .DS_Store
 Thumbs.db
+
+# IDE 文件
+.idea/
+*.iml
+*.iws
+*.ipr
