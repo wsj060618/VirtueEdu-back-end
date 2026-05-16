@@ -10,7 +10,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.perswsj</groupId>
-    <artifactId>tlias-parent</artifactId>
+    <artifactId>VirtueEdu-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
@@ -25,9 +25,9 @@
     </properties>
 
     <modules>
-        <module>./tlias-model</module>
-        <module>./tlias-utils</module>
-        <module>./tlias-web-mangement</module>
+        <module>./VirtueEdu-model</module>
+        <module>./VirtueEdu-utils</module>
+        <module>./VirtueEdu-web-management</module>
     </modules>
     <!--    直接引入依赖-->
     <dependencies>

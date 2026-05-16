@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourcePerFileMappings">
-    <file url="file://$PROJECT_DIR$/.idea/queries/Query.sql" value="a0ba6414-b0ae-4bde-8eba-1911f965a0ad" />
-    <file url="file://$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/mapper/OperateLogMapper.java" value="a0ba6414-b0ae-4bde-8eba-1911f965a0ad" />
+    <file url="file://$PROJECT_DIR$/.idea/queries/Query.sql" value="85ce0786-c11f-4f61-8f9c-fa9c1dfcf69e" />
   </component>
 </project>

@@ -1,0 +1,37 @@
+spring:
+  application:
+    name: VirtueEdu-web-management
+  # 数据库连接配置
+  datasource:
+    url: jdbc:mysql://localhost:3306/virtue_edu_db
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: ${DB_USER}
+    password: ${DB_PWD}
+  # 配置文件上传
+  servlet:
+    multipart:
+      # 单个文件上传的最大大小
+      max-file-size: 30MB
+      # 总上传的最大大小
+      max-request-size: 300MB
+# MyBatis配置
+mybatis:
+  configuration:
+    # 开启驼峰命名映射
+    map-underscore-to-camel-case: true
+    # 配置 MyBatis的日志输出
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  # 指定xml映射文件的位置
+  mapper-locations: classpath:mapper/*.xml
+
+  # 配置日志信息，查看事务管理的底层信息
+logging:
+    level:
+        org.springframework.jdbc.support.JdbcTransactionManager: DEBUG
+
+# 配置OSS
+aliyun:
+  oss:
+    endpoint: https://oss-cn-beijing.aliyuncs.com
+    bucketName: wsj2-java
+    region: cn-beijing

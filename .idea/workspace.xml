@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b3c1d2de-f703-4984-beac-636c210506a2" name="Changes" comment="更正日志路径">
+      <change afterPath="$PROJECT_DIR$/VirtueEdu-web-management/src/test/java/org/perswsj/DbTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ApifoxUploaderProjectSetting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ApifoxUploaderProjectSetting.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data_source_mapping.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_source_mapping.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/src/main/java/org/perswsj/model/Clazz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/src/main/java/org/perswsj/model/ClazzCountOption.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/src/main/java/org/perswsj/model/ClazzQueryParam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/src/main/java/org/perswsj/model/DegreeCountOption.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/src/main/java/org/perswsj/model/Dept.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/src/main/java/org/perswsj/model/Emp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/src/main/java/org/perswsj/model/EmpExpr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/src/main/java/org/perswsj/model/EmpLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/src/main/java/org/perswsj/model/EmpQueryParam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/src/main/java/org/perswsj/model/JobOption.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/src/main/java/org/perswsj/model/LogQueryParam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/src/main/java/org/perswsj/model/LoginInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/src/main/java/org/perswsj/model/OperateLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/src/main/java/org/perswsj/model/PageResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/src/main/java/org/perswsj/model/Result.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/src/main/java/org/perswsj/model/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/src/main/java/org/perswsj/model/StudentQueryParam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/target/classes/org/perswsj/model/Clazz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/target/classes/org/perswsj/model/ClazzCountOption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/target/classes/org/perswsj/model/ClazzQueryParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/target/classes/org/perswsj/model/DegreeCountOption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/target/classes/org/perswsj/model/Dept.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/target/classes/org/perswsj/model/Emp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/target/classes/org/perswsj/model/EmpExpr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/target/classes/org/perswsj/model/EmpLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/target/classes/org/perswsj/model/EmpQueryParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/target/classes/org/perswsj/model/JobOption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/target/classes/org/perswsj/model/LogQueryParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/target/classes/org/perswsj/model/LoginInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/target/classes/org/perswsj/model/OperateLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/target/classes/org/perswsj/model/PageResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/target/classes/org/perswsj/model/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/target/classes/org/perswsj/model/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/target/classes/org/perswsj/model/StudentQueryParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-model/target/tlias-model-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-utils/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-utils/src/main/java/org/perswsj/utils/AliyunOSSOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-utils/src/main/java/org/perswsj/utils/AliyunOssProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-utils/src/main/java/org/perswsj/utils/CurrentHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-utils/src/main/java/org/perswsj/utils/JwtUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-utils/target/classes/org/perswsj/utils/AliyunOSSOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-utils/target/classes/org/perswsj/utils/AliyunOssProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-utils/target/classes/org/perswsj/utils/CurrentHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-utils/target/classes/org/perswsj/utils/JwtUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-utils/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-utils/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-utils/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-utils/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-utils/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-utils/target/tlias-utils-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/logs/tlias-2026-04-17-0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/logs/tlias-2026-04-18-0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/logs/tlias-2026-04-19-0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/logs/tlias-2026-04-20-0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/logs/tlias-2026-04-21-0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/logs/tlias-2026-04-22-0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/logs/tlias-2026-04-23-0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/logs/tlias-2026-04-24-0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/logs/tlias-2026-04-25-0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/logs/tlias-2026-04-26-0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/logs/tlias-2026-04-27-0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/logs/tlias-2026-04-28-0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/logs/tlias-2026-05-03-0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/logs/tlias-2026-05-04-0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/logs/tlias-2026-05-08-0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/logs/tlias-2026-05-10-0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/logs/tlias-2026-05-13-0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/logs/tlias-2026-05-15-0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/logs/tlias-2026-05-16-0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/Interceptor/LoginInterCeptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/TliasWebMangementApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/anno/Log.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/aop/RecordRunTimeAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/config/WebConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/controller/ClazzController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/controller/DeptController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/controller/EmpController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/controller/LogController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/controller/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/controller/ReportController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/controller/StudentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/controller/UpdateController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/dto/ClazzDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/dto/LoginDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/dto/OperateLogDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/dto/StudentDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/exception/ClassHasStudentException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/exception/DeptHasEmpException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/exception/GlobalExceptionHeader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/mapper/ClazzMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/mapper/DeptMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/mapper/EmpExpMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/mapper/EmpLogMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/mapper/EmpMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/mapper/LoginMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/mapper/OperateLogMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/mapper/studentMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/service/ClazzService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/service/DeptService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/service/EmpService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/service/LogService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/service/LoginService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/service/ReportService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/service/StudentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/service/impl/ClazzServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/service/impl/DeptServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/service/impl/EmpServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/service/impl/LogServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/service/impl/LoginServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/service/impl/ReportServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/java/org/perswsj/service/impl/StudentServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/resources/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/resources/org/perswsj/mapper/ClazzMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/resources/org/perswsj/mapper/EmpExpMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/resources/org/perswsj/mapper/EmpMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/resources/org/perswsj/mapper/LoginMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/resources/org/perswsj/mapper/OperateLogMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/resources/org/perswsj/mapper/studentMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/main/resources/static/upload.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/test/java/org/perswsj/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/test/java/org/perswsj/JwtTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/test/java/org/perswsj/LogTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/test/java/org/perswsj/SpringbootWebTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/src/test/java/org/perswsj/TliasWebMangementApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/Interceptor/LoginInterCeptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/TliasWebMangementApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/anno/Log.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/aop/RecordRunTimeAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/config/WebConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/controller/ClazzController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/controller/DeptController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/controller/EmpController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/controller/LogController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/controller/LoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/controller/ReportController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/controller/StudentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/controller/UpdateController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/dto/ClazzDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/dto/LoginDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/dto/OperateLogDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/dto/StudentDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/exception/ClassHasStudentException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/exception/DeptHasEmpException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/exception/GlobalExceptionHeader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/mapper/ClazzMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/mapper/ClazzMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/mapper/DeptMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/mapper/EmpExpMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/mapper/EmpExpMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/mapper/EmpLogMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/mapper/EmpMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/mapper/EmpMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/mapper/LoginMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/mapper/LoginMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/mapper/OperateLogMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/mapper/OperateLogMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/mapper/studentMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/mapper/studentMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/service/ClazzService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/service/DeptService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/service/EmpService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/service/LogService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/service/LoginService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/service/ReportService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/service/StudentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/service/impl/ClazzServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/service/impl/DeptServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/service/impl/EmpServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/service/impl/LogServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/service/impl/LoginServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/service/impl/ReportServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/org/perswsj/service/impl/StudentServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/classes/static/upload.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/surefire-reports/2026-05-10T14-11-37_989.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/surefire-reports/2026-05-13T21-27-28_223.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/surefire-reports/TEST-org.perswsj.JwtTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/surefire-reports/TEST-org.perswsj.LogTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/surefire-reports/TEST-org.perswsj.SpringbootWebTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/surefire-reports/TEST-org.perswsj.TliasWebMangementApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/surefire-reports/org.perswsj.JwtTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/surefire-reports/org.perswsj.LogTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/surefire-reports/org.perswsj.SpringbootWebTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/surefire-reports/org.perswsj.TliasWebMangementApplicationTests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/test-classes/org/perswsj/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/test-classes/org/perswsj/JwtTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/test-classes/org/perswsj/LogTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/test-classes/org/perswsj/SpringbootWebTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/test-classes/org/perswsj/TliasWebMangementApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/tlias-web-mangement-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/tlias-web-mangement-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/tlias-web-mangement-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-mangement/target/tlias-web-mangement-1.0-SNAPSHOT.jar.original" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotChats">
+    <option name="panelChat">
+      <chat>
+        <option name="activeSessionId" value="c5ed3cda-cad8-4871-b9ba-9edff93ac3c8" />
+        <option name="sessions">
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="8cf00765-a7b4-4719-b221-48d1021b1c9b" />
+            <option name="modeId" value="Ask" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="c5ed3cda-cad8-4871-b9ba-9edff93ac3c8" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+        </option>
+        <option name="type" value="PANEL" />
+      </chat>
+    </option>
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_D:/coding/JavaWeb/back_end/VirtueEdu-parent" value="3DmovhvZErhdZbdqKl6K2HbJGVY" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="D:\coding\apache-maven-3.9.4" />
+        <option name="localRepository" value="D:\coding\apache-maven-3.9.4\mvn_repo" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="D:\coding\apache-maven-3.9.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3DmovhvZErhdZbdqKl6K2HbJGVY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.DbTest.executor": "Run",
+    "JUnit.DbTest.testConnect.executor": "Debug",
+    "Maven.VirtueEdu-parent [clean].executor": "Run",
+    "Maven.VirtueEdu-parent [compile].executor": "Run",
+    "Maven.VirtueEdu-parent [install].executor": "Run",
+    "Maven.VirtueEdu-parent [test].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.VirtueEduWebManagementApplication.executor": "Run",
+    "Spring Boot.VirtueEduWebMangementApplication.executor": "Debug",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "com.itangcent.idea.plugin.configurable.rootConfigurable.apifox"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.VirtueEduWebManagementApplication">
+    <configuration name="DbTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VirtueEdu-web-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.perswsj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.perswsj" />
+      <option name="MAIN_CLASS_NAME" value="org.perswsj.DbTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DbTest.testConnect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VirtueEdu-web-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.perswsj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.perswsj" />
+      <option name="MAIN_CLASS_NAME" value="org.perswsj.DbTest" />
+      <option name="METHOD_NAME" value="testConnect" />
+      <option name="TEST_OBJECT" value="method" />
+      <envs>
+        <env name="DB_USER" value="root" />
+        <env name="DB_PWD" value="060618" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VirtueEduWebManagementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="DB_USER" value="root" />
+        <env name="DB_PWD" value="060618" />
+      </envs>
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
+      <module name="VirtueEdu-web-management" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.perswsj.VirtueEduWebManagementApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.perswsj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.DbTest" />
+      <item itemvalue="JUnit.DbTest.testConnect" />
+      <item itemvalue="Spring Boot.VirtueEduWebManagementApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DbTest" />
+        <item itemvalue="Spring Boot.VirtueEduWebManagementApplication" />
+        <item itemvalue="JUnit.DbTest.testConnect" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-cffe25b9f5b3-intellij.indexing.shared.core-IU-253.28294.334" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3c1d2de-f703-4984-beac-636c210506a2" name="Changes" comment="" />
+      <created>1778896839070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778896839070</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>

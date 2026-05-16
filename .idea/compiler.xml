@@ -6,25 +6,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="tlias-model" />
-        <module name="tlias-utils" />
+        <module name="VirtueEdu-model" />
+        <module name="VirtueEdu-utils" />
       </profile>
-      <profile name="Annotation profile for tlias-parent" enabled="true">
+      <profile name="Annotation profile for VirtueEdu-parent" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="false">
           <entry name="$PROJECT_DIR$/../../../apache-maven-3.9.4/mvn_repo/org/projectlombok/lombok/1.18.42/lombok-1.18.42.jar" />
         </processorPath>
-        <module name="tlias-web-mangement" />
+        <module name="VirtueEdu-web-management" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="tlias-model" options="-parameters" />
-      <module name="tlias-utils" options="-parameters" />
-      <module name="tlias-web-mangement" options="-parameters" />
+      <module name="VirtueEdu-model" options="-parameters" />
+      <module name="VirtueEdu-utils" options="-parameters" />
+      <module name="VirtueEdu-web-management" options="-parameters" />
     </option>
   </component>
 </project>
