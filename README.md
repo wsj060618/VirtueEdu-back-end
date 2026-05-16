@@ -142,8 +142,8 @@ VirtueEdu-parent/                              # Maven 父工程
 
 ## 环境要求
 - JDK 17+
-- MySQL 8.0+
-- Maven 3.8+
+- MySQL 8.4.6
+- Maven 3.9.4
 
 ## 快速开始
 
