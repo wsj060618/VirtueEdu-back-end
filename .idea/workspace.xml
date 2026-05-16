@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3c1d2de-f703-4984-beac-636c210506a2" name="Changes" comment="修正README文件" />
+    <list default="true" id="b3c1d2de-f703-4984-beac-636c210506a2" name="Changes" comment="修正README文件">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,33 +72,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.DbTest.executor": "Run",
-    "JUnit.DbTest.testConnect.executor": "Debug",
-    "Maven.VirtueEdu-parent [clean].executor": "Run",
-    "Maven.VirtueEdu-parent [compile].executor": "Run",
-    "Maven.VirtueEdu-parent [install].executor": "Run",
-    "Maven.VirtueEdu-parent [test].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "Spring Boot.VirtueEduWebManagementApplication.executor": "Run",
-    "Spring Boot.VirtueEduWebMangementApplication.executor": "Debug",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/coding/JavaWeb/back_end/VirtueEdu-parent/document",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "com.itangcent.idea.plugin.configurable.rootConfigurable.apifox"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.DbTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DbTest.testConnect.executor&quot;: &quot;Debug&quot;,
+    &quot;Maven.VirtueEdu-parent [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.VirtueEdu-parent [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.VirtueEdu-parent [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.VirtueEdu-parent [test].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.VirtueEduWebManagementApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.VirtueEduWebMangementApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/coding/JavaWeb/back_end/VirtueEdu-parent/document&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.itangcent.idea.plugin.configurable.rootConfigurable.apifox&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\coding\JavaWeb\back_end\VirtueEdu-parent\document" />
@@ -164,8 +166,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.DbTest" />
         <item itemvalue="Spring Boot.VirtueEduWebManagementApplication" />
+        <item itemvalue="JUnit.DbTest" />
         <item itemvalue="JUnit.DbTest.testConnect" />
       </list>
     </recent_temporary>
@@ -241,7 +243,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778907892959</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="修正README文件">
+      <option name="closed" value="true" />
+      <created>1778932892254</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1778932892255</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
