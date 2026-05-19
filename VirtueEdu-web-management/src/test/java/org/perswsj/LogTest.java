@@ -18,7 +18,7 @@ public class LogTest {
         for (int num : nums) {
             sum += num;
         }
-        
+
         log.info("计算结果为: {}", sum);
         log.debug(LocalDateTime.now() + "结束计算...");
     }

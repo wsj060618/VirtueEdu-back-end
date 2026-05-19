@@ -2,5 +2,6 @@
 <project version="4">
   <component name="DataSourcePerFileMappings">
     <file url="file://$PROJECT_DIR$/.idea/queries/Query.sql" value="85ce0786-c11f-4f61-8f9c-fa9c1dfcf69e" />
+    <file url="file://$PROJECT_DIR$/VirtueEdu-web-management/src/main/java/org/perswsj/mapper/DeptMapper.java" value="85ce0786-c11f-4f61-8f9c-fa9c1dfcf69e" />
   </component>
 </project>

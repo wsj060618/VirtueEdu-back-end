@@ -4,8 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3c1d2de-f703-4984-beac-636c210506a2" name="Changes" comment="修正README文件">
+    <list default="true" id="b3c1d2de-f703-4984-beac-636c210506a2" name="Changes" comment="恢复拦截器">
+      <change beforePath="$PROJECT_DIR$/.idea/ApifoxUploaderProjectSetting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ApifoxUploaderProjectSetting.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/85ce0786-c11f-4f61-8f9c-fa9c1dfcf69e.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/85ce0786-c11f-4f61-8f9c-fa9c1dfcf69e.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data_source_mapping.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_source_mapping.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VirtueEdu-web-management/src/main/java/org/perswsj/VirtueEduWebManagementApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/VirtueEdu-web-management/src/main/java/org/perswsj/VirtueEduWebManagementApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VirtueEdu-web-management/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/VirtueEdu-web-management/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VirtueEdu-web-management/src/test/java/org/perswsj/LogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/VirtueEdu-web-management/src/test/java/org/perswsj/LogTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,22 +87,31 @@
   &quot;keyToString&quot;: {
     &quot;JUnit.DbTest.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.DbTest.testConnect.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.LogTest.testLog.executor&quot;: &quot;Run&quot;,
     &quot;Maven.VirtueEdu-parent [clean].executor&quot;: &quot;Run&quot;,
     &quot;Maven.VirtueEdu-parent [compile].executor&quot;: &quot;Run&quot;,
     &quot;Maven.VirtueEdu-parent [install].executor&quot;: &quot;Run&quot;,
     &quot;Maven.VirtueEdu-parent [test].executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;Spring Boot.VirtueEduWebManagementApplication.executor&quot;: &quot;Run&quot;,
     &quot;Spring Boot.VirtueEduWebMangementApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/coding/JavaWeb/back_end/VirtueEdu-parent/document&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/coding/JavaWeb/back_end/VirtueEdu-parent&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.itangcent.idea.plugin.configurable.rootConfigurable.apifox&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;DatabaseDriversLRU&quot;: [
@@ -105,7 +125,7 @@
       <recent name="D:\coding\JavaWeb\back_end\VirtueEdu-parent\api doucument" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.VirtueEduWebManagementApplication">
+  <component name="RunManager" selected="JUnit.LogTest.testLog">
     <configuration name="DbTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="VirtueEdu-web-management" />
       <extension name="coverage">
@@ -141,6 +161,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LogTest.testLog" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VirtueEdu-web-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.perswsj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.perswsj" />
+      <option name="MAIN_CLASS_NAME" value="org.perswsj.LogTest" />
+      <option name="METHOD_NAME" value="testLog" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="VirtueEduWebManagementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <envs>
         <env name="DB_USER" value="root" />
@@ -160,12 +196,14 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="JUnit.LogTest.testLog" />
       <item itemvalue="JUnit.DbTest" />
       <item itemvalue="JUnit.DbTest.testConnect" />
       <item itemvalue="Spring Boot.VirtueEduWebManagementApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LogTest.testLog" />
         <item itemvalue="Spring Boot.VirtueEduWebManagementApplication" />
         <item itemvalue="JUnit.DbTest" />
         <item itemvalue="JUnit.DbTest.testConnect" />
@@ -175,7 +213,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-cffe25b9f5b3-intellij.indexing.shared.core-IU-253.28294.334" />
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
       </set>
     </attachedChunks>
   </component>
@@ -251,8 +290,19 @@
       <option name="project" value="LOCAL" />
       <updated>1778932892255</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="恢复拦截器">
+      <option name="closed" value="true" />
+      <created>1778940585081</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1778940585081</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -284,7 +334,8 @@
     <MESSAGE value="修正README文件内容" />
     <MESSAGE value="修正README文件里环境要求" />
     <MESSAGE value="修正README文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="修正README文件" />
+    <MESSAGE value="恢复拦截器" />
+    <option name="LAST_COMMIT_MESSAGE" value="恢复拦截器" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>

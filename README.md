@@ -167,11 +167,23 @@ spring:
 ```
 
 ### 3. 运行项目
+方式一：使用Maven命令行
 
+切换到项目根目录 `VirtueEdu-parent`执行以下命令：
 ```bash
 mvn clean install
 cd VirtueEdu-web-management
 mvn spring-boot:run
+```
+方式二：使用IDEA导入项目
+
+将项目导入IDEA，点击运行 `VirtueEduWebManagementApplication` 即可启动服务。
+
+方式三：使用jar包启动
+
+进入jar包所在目录，执行以下命令：
+```bash
+java -jar VirtueEdu-web-management-1.0.0-SNAPSHOT.jar
 ```
 
 ### 4. 访问服务
